@@ -1,4 +1,4 @@
-# Hey there, I'm Michelle! 👋
+<h2 align="center">👋 Hello! I'm Michelle</h2>
 
 ![São Paulo](https://img.shields.io/badge/Location-S%C3%A3o%20Paulo-blue)
 ![Mobile Developer](https://img.shields.io/badge/Occupation-Mobile%20Developer-orange)
