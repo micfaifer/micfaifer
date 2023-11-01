@@ -11,7 +11,7 @@
 - 🚀 Enthusiast in FPV drones and competitive sports.
 - 🌍 Passionate about traveling and exploring new places.
 - 🐱 Cat mom to Mabel.
-- 🎮 Game jam participant with creations on [itch.io](https://itch.io/profile/michelle-gamedev).
+- 🎮 Game jam participant with creations on [itch.io](https://micfaifer.itch.io).
 - 📚 Currently studying Flutter.
 - 🏆 WWDC 2017 Scholarship recipient.
 - 🥇 Brazilian Finalist in Programming Marathon (2017/2018).
