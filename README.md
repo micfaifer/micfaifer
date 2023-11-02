@@ -16,3 +16,4 @@
 - 🏆 WWDC 2017 Scholarship recipient.
 - 🥇 Brazilian Finalist in Programming Marathon (2017/2018).
 - 📚 Former Programming Language Monitor at Mackenzie University.
+- 🌐 Open to international job opportunities and relocating to new horizons.
